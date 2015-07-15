@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/holo_blue_bright"
+    android:orientation="vertical"
+    tools:context = "hackathon.test.startingpoint.fragmentview.HomeFragment">
+
+
+    <Button
+        android:id="@+id/app_launcher_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/app_launcher_button"/>
+
+    <Button
+        android:id="@+id/contacts_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/contacts_button"/>
+
+
+    <Button
+        android:id="@+id/file_manager_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/file_manager_button"/>
+
+    <Button
+        android:id="@+id/sync_adapter_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/sync_adapter_button"/>
+
+
+    <Button
+        android:id="@+id/widget_setting_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/widget_settings_button"/>
+
+    <Button
+        android:id="@+id/cpu_frequency_analysis_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/cpu_frequency_analysis_button"/>
+
+    <Button
+        android:id="@+id/system_impact_analysis_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/system_impact_analysis_button"/>
+
+    <Button
+        android:id="@+id/usb_driver_config_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/usb_driver_config_button"/>
+
+    <Button
+        android:id="@+id/upload_file_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/upload_file_button"/>
+
+    <Button
+        android:id="@+id/request_file_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/request_file_button"/>
+
+
+</LinearLayout>

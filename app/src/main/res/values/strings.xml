@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MMX Hackathon</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_launcher_button">App Launcher</string>
+    <string name="contacts_button">Contacts</string>
+    <string name="sync_adapter_button">Sync Adapter Settings</string>
+    <string name="widget_settings_button">Widget Settings</string>
+    <string name="cpu_frequency_analysis_button">CPU Frequency Analysis</string>
+    <string name="system_impact_analysis_button">System Impact Analysis</string>
+    <string name="usb_driver_config_button">USB driver config</string>
+    <string name="upload_file_button">Upload file to Local Serv</string>
+    <string name="request_file_button">Request Meta data</string>
+    <string name="file_manager_button">File Manager</string>
+    <string name="title_activity_app_launcher">AppLauncherActivity</string>
+    <string name="title_activity_contact">ContactActivity</string>
+    <string name="title_activity_cpu_profiler">CpuProfilerActivity</string>
+    <string name="title_activity_file_manager">FileManagerActivity</string>
+    <string name="title_activity_request_rest">RequestRestActivity</string>
+    <string name="title_activity_sync_config">SyncConfigActivity</string>
+    <string name="title_activity_sys_imp">SysImpActivity</string>
+    <string name="title_activity_upload_rest">UploadRestActivity</string>
+    <string name="title_activity_upload">UploadActivity</string>
+    <string name="title_activity_usb">UsbActivity</string>
+    <string name="title_activity_widget_config">WidgetConfigActivity</string>
+
+
+    <!-- FROM FILEMANAGER -->
+    <string name="media_dialog">Media preview</string>
+    <string name="dir_info">Folder Information</string>
+    <string name="manager_act">Phone Management</string>
+
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F50057</color>  <!-- This is the darkest primary color of the app mainly applies to the notification bar background-->
+    <color name="colorPrimaryDark">#C51162</color> <!-- color applied to the toolbar background-->
+    <color name="textColorPrimary">#FFFFFF</color> <!-- applies this color to the toolbar text-->
+    <color name="windowBackground">#FFFFFF</color>  <!-- default background color of the application-->
+    <color name="navigationBarColor">#000000</color>  <!-- color defined for the footer navigation-->
+    <color name="colorAccent">#FF80AB</color>  <!-- Navigation bar-->
+
+</resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="hackathon.micromax" >
+
+    <uses-permission android:name="android.permission.READ_CONTACTS"/>
+    <uses-permission android:name="android.permission.WRITE_CONTACTS"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:theme="@style/MyMaterialTheme"
+        android:label="@string/app_name">
+        <activity
+            android:name=".startingpoint.mainview.StartingActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="hackathon.test.applauncher.AppLauncherActivity"
+            android:label="@string/title_activity_app_launcher" >
+        </activity>
+        <activity
+            android:name="hackathon.test.contacts.view.ContactActivity"
+            android:label="@string/title_activity_contact" >
+        </activity>
+        <activity
+            android:name="hackathon.test.cpuprofiling.CpuProfilerActivity"
+            android:label="@string/title_activity_cpu_profiler" >
+        </activity>
+        <activity
+            android:name="hackathon.test.filemanager.FileManagerActivity"
+            android:label="@string/title_activity_file_manager" >
+        </activity>
+        <activity
+            android:name="hackathon.test.requestrest.RequestRestActivity"
+            android:label="@string/title_activity_request_rest" >
+        </activity>
+        <activity
+            android:name="hackathon.test.syncadapter.SyncConfigActivity"
+            android:label="@string/title_activity_sync_config" >
+        </activity>
+        <activity
+            android:name="hackathon.test.sysimpanalysis.SysImpActivity"
+            android:label="@string/title_activity_sys_imp" >
+        </activity>
+        <activity
+            android:name="hackathon.test.uploadrest.UploadRestActivity"
+            android:label="@string/title_activity_upload_rest" >
+        </activity>
+        <activity
+            android:name="hackathon.test.usbchallenge.UsbActivity"
+            android:label="@string/title_activity_usb" >
+        </activity>
+        <activity
+            android:name="hackathon.test.widget.WidgetConfigActivity"
+            android:label="@string/title_activity_widget_config" >
+        </activity>
+    </application>
+
+</manifest>
