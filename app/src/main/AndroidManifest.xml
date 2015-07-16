@@ -23,43 +23,43 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="hackathon.test.applauncher.AppLauncherActivity"
+            android:name="hackathon.micromax.applauncher.AppLauncherActivity"
             android:label="@string/title_activity_app_launcher" >
         </activity>
         <activity
-            android:name="hackathon.test.contacts.view.ContactActivity"
+            android:name="hackathon.micromax.contacts.view.ContactActivity"
             android:label="@string/title_activity_contact" >
         </activity>
         <activity
-            android:name="hackathon.test.cpuprofiling.CpuProfilerActivity"
+            android:name="hackathon.micromax.cpuprofiling.CpuProfilerActivity"
             android:label="@string/title_activity_cpu_profiler" >
         </activity>
         <activity
-            android:name="hackathon.test.filemanager.FileManagerActivity"
+            android:name="hackathon.micromax.filemanager.FileManagerActivity"
             android:label="@string/title_activity_file_manager" >
         </activity>
         <activity
-            android:name="hackathon.test.requestrest.RequestRestActivity"
+            android:name="hackathon.micromax.requestrest.RequestRestActivity"
             android:label="@string/title_activity_request_rest" >
         </activity>
         <activity
-            android:name="hackathon.test.syncadapter.SyncConfigActivity"
+            android:name="hackathon.micromax.syncadapter.SyncConfigActivity"
             android:label="@string/title_activity_sync_config" >
         </activity>
         <activity
-            android:name="hackathon.test.sysimpanalysis.SysImpActivity"
+            android:name="hackathon.micromax.sysimpanalysis.SysImpActivity"
             android:label="@string/title_activity_sys_imp" >
         </activity>
         <activity
-            android:name="hackathon.test.uploadrest.UploadRestActivity"
+            android:name="hackathon.micromax.uploadrest.UploadRestActivity"
             android:label="@string/title_activity_upload_rest" >
         </activity>
         <activity
-            android:name="hackathon.test.usbchallenge.UsbActivity"
+            android:name="hackathon.micromax.usbchallenge.UsbActivity"
             android:label="@string/title_activity_usb" >
         </activity>
         <activity
-            android:name="hackathon.test.widget.WidgetConfigActivity"
+            android:name="hackathon.micromax.widget.WidgetConfigActivity"
             android:label="@string/title_activity_widget_config" >
         </activity>
     </application>

@@ -1,4 +1,4 @@
-package hackathon.test.requestrest;
+package hackathon.micromax.requestrest;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
@@ -7,7 +7,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
 
-import hackathon.test.R;
+import hackathon.micromax.R;
 
 
 public class RequestRestActivity extends ActionBarActivity implements View.OnClickListener{

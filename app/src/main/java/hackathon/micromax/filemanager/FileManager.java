@@ -16,7 +16,7 @@
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-package hackathon.test.filemanager;
+package hackathon.micromax.filemanager;
 
 import java.util.ArrayList;
 import java.util.Arrays;

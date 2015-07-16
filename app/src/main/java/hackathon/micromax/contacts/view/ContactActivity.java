@@ -1,4 +1,4 @@
-package hackathon.test.contacts.view;
+package hackathon.micromax.contacts.view;
 
 import android.annotation.SuppressLint;
 
@@ -20,7 +20,7 @@ import android.widget.AdapterView;
 import android.widget.ListView;
 import android.widget.SimpleCursorAdapter;
 
-import hackathon.test.R;
+import hackathon.micromax.R;
 
 /**
  * Boiler plate setup

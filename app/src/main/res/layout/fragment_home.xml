@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:background="@android:color/holo_blue_bright"
     android:orientation="vertical"
-    tools:context = "hackathon.test.startingpoint.fragmentview.HomeFragment">
+    tools:context = "hackathon.micromax.startingpoint.fragmentview.HomeFragment">
 
 
     <Button

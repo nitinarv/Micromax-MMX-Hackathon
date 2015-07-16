@@ -1,4 +1,4 @@
-package hackathon.test.startingpoint.mainview;
+package hackathon.micromax.startingpoint.mainview;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -12,10 +12,10 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 
-import hackathon.test.R;
-import hackathon.test.startingpoint.fragmentview.FriendsFragment;
-import hackathon.test.startingpoint.fragmentview.HomeFragment;
-import hackathon.test.startingpoint.fragmentview.MessagesFragment;
+import hackathon.micromax.R;
+import hackathon.micromax.startingpoint.fragmentview.FriendsFragment;
+import hackathon.micromax.startingpoint.fragmentview.HomeFragment;
+import hackathon.micromax.startingpoint.fragmentview.MessagesFragment;
 
 
 public class StartingActivity extends AppCompatActivity implements FragmentDrawer.FragmentDrawerListener{

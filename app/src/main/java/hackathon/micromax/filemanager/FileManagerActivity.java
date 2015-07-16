@@ -1,4 +1,4 @@
-package hackathon.test.filemanager;
+package hackathon.micromax.filemanager;
 
 import android.app.AlertDialog;
 import android.app.Dialog;
@@ -29,7 +29,7 @@ import android.widget.Toast;
 
 import java.io.File;
 
-import hackathon.test.R;
+import hackathon.micromax.R;
 
 public class FileManagerActivity extends ListActivity {
     public static final String ACTION_WIDGET = "com.nexes.manager.Main.ACTION_WIDGET";

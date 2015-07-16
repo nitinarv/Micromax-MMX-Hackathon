@@ -1,4 +1,4 @@
-package hackathon.test.applauncher;
+package hackathon.micromax.applauncher;
 
 import android.content.Intent;
 import android.os.Bundle;

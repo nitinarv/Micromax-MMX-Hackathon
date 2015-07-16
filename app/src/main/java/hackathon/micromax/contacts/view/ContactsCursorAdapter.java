@@ -1,4 +1,4 @@
-package hackathon.test.contacts.view;
+package hackathon.micromax.contacts.view;
 
 public class ContactsCursorAdapter {
 

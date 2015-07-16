@@ -1,4 +1,4 @@
-package hackathon.test.applauncher;
+package hackathon.micromax.applauncher;
 
 import android.content.Context;
 import android.content.pm.ApplicationInfo;

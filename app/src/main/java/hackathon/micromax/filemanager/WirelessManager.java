@@ -16,7 +16,7 @@
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-package hackathon.test.filemanager;
+package hackathon.micromax.filemanager;
 
 import android.app.Activity;
 import android.content.Context;
@@ -29,7 +29,7 @@ import android.widget.TextView;
 import android.widget.ImageView;
 import android.widget.Button;
 
-import hackathon.test.R;
+import hackathon.micromax.R;
 
 public class WirelessManager extends Activity {
 	//index values to access the elements in the TextView array.

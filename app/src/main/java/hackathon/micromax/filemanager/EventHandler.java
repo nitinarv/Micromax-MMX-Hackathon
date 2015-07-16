@@ -16,7 +16,7 @@
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-package hackathon.test.filemanager;
+package hackathon.micromax.filemanager;
 
 import java.io.File;
 import java.util.ArrayList;
@@ -44,7 +44,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import hackathon.test.R;
+import hackathon.micromax.R;
 
 /**
  * This class sits between the Main activity and the FileManager class. 

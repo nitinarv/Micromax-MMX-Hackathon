@@ -1,4 +1,4 @@
-package hackathon.test.startingpoint.fragmentview;
+package hackathon.micromax.startingpoint.fragmentview;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -11,17 +11,17 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.Toast;
 
-import hackathon.test.R;
-import hackathon.test.applauncher.AppLauncherActivity;
-import hackathon.test.contacts.view.ContactActivity;
-import hackathon.test.cpuprofiling.CpuProfilerActivity;
-import hackathon.test.filemanager.FileManagerActivity;
-import hackathon.test.requestrest.RequestRestActivity;
-import hackathon.test.syncadapter.SyncConfigActivity;
-import hackathon.test.sysimpanalysis.SysImpActivity;
-import hackathon.test.uploadrest.UploadRestActivity;
-import hackathon.test.usbchallenge.UsbActivity;
-import hackathon.test.widget.WidgetConfigActivity;
+import hackathon.micromax.R;
+import hackathon.micromax.applauncher.AppLauncherActivity;
+import hackathon.micromax.contacts.view.ContactActivity;
+import hackathon.micromax.cpuprofiling.CpuProfilerActivity;
+import hackathon.micromax.filemanager.FileManagerActivity;
+import hackathon.micromax.requestrest.RequestRestActivity;
+import hackathon.micromax.syncadapter.SyncConfigActivity;
+import hackathon.micromax.sysimpanalysis.SysImpActivity;
+import hackathon.micromax.uploadrest.UploadRestActivity;
+import hackathon.micromax.usbchallenge.UsbActivity;
+import hackathon.micromax.widget.WidgetConfigActivity;
 
 /**
  * Created by apple on 01/07/15.

@@ -1,4 +1,4 @@
-package hackathon.test.startingpoint.model;
+package hackathon.micromax.startingpoint.model;
 
 /**
  * Created by apple on 30/06/15.

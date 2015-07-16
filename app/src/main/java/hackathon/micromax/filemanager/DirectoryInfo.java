@@ -16,7 +16,7 @@
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-package hackathon.test.filemanager;
+package hackathon.micromax.filemanager;
 
 import java.io.File;
 import java.util.Date;
@@ -32,7 +32,7 @@ import android.view.View;
 import android.widget.TextView;
 import android.widget.Button;
 
-import hackathon.test.R;
+import hackathon.micromax.R;
 
 public class DirectoryInfo extends Activity {
 	private static final int KB = 1024;

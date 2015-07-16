@@ -1,11 +1,11 @@
-package hackathon.test.widget;
+package hackathon.micromax.widget;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
-import hackathon.test.R;
+import hackathon.micromax.R;
 
 public class WidgetConfigActivity extends ActionBarActivity {
 

@@ -1,11 +1,11 @@
-package hackathon.test.cpuprofiling;
+package hackathon.micromax.cpuprofiling;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
-import hackathon.test.R;
+import hackathon.micromax.R;
 
 public class CpuProfilerActivity extends ActionBarActivity {
 

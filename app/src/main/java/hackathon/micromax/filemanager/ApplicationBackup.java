@@ -16,7 +16,7 @@
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-package hackathon.test.filemanager;
+package hackathon.micromax.filemanager;
 
 import java.util.List;
 import java.util.ArrayList;
@@ -47,7 +47,7 @@ import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.Toast;
 
-import hackathon.test.R;
+import hackathon.micromax.R;
 
 /**
  * This class is used to display an activity to the user so they can

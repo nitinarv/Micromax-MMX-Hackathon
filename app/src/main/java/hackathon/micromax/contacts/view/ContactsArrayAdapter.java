@@ -1,4 +1,4 @@
-package hackathon.test.contacts.view;
+package hackathon.micromax.contacts.view;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -9,8 +9,8 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
-import hackathon.test.contacts.model.Contact;
-import hackathon.test.R;
+import hackathon.micromax.contacts.model.Contact;
+import hackathon.micromax.R;
 
 public class ContactsArrayAdapter extends ArrayAdapter<Contact> {
 

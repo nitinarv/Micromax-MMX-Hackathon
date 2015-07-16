@@ -16,7 +16,7 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-package hackathon.test.filemanager;
+package hackathon.micromax.filemanager;
 
 import android.net.Uri;
 import android.os.Bundle;
@@ -30,7 +30,7 @@ import android.widget.TextView;
 import android.widget.Button;
 import android.widget.Toast;
 
-import hackathon.test.R;
+import hackathon.micromax.R;
 
 public class HelpManager extends Activity implements OnClickListener {
 	private static final String[] EMAIL = {"nexesdevelopment@gmail.com"};

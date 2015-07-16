@@ -1,4 +1,4 @@
-package hackathon.test.sample.mmx.com.testapplication;
+package hackathon.micromax.sample.mmx.com.testapplication;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

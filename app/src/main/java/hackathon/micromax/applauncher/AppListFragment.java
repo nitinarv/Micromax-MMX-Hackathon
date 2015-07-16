@@ -1,4 +1,4 @@
-package hackathon.test.applauncher;
+package hackathon.micromax.applauncher;
 
 import android.os.Bundle;
 import android.support.v4.app.ListFragment;

@@ -16,7 +16,7 @@
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-package hackathon.test.filemanager;
+package hackathon.micromax.filemanager;
 
 import java.io.IOException;
 import android.os.Bundle;
@@ -28,7 +28,7 @@ import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.TextView;
 
-import hackathon.test.R;
+import hackathon.micromax.R;
 
 public class AudioPlayblack extends Activity {
 	private String music_path;

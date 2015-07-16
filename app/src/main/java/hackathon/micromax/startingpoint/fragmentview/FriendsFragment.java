@@ -1,4 +1,4 @@
-package hackathon.test.startingpoint.fragmentview;
+package hackathon.micromax.startingpoint.fragmentview;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -7,7 +7,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import hackathon.test.R;
+import hackathon.micromax.R;
 
 /**
  * Created by apple on 01/07/15.

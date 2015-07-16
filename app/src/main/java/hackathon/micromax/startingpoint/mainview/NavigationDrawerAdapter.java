@@ -1,4 +1,4 @@
-package hackathon.test.startingpoint.mainview;
+package hackathon.micromax.startingpoint.mainview;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -10,8 +10,8 @@ import android.widget.TextView;
 import java.util.Collections;
 import java.util.List;
 
-import hackathon.test.R;
-import hackathon.test.startingpoint.model.NavDrawerItem;
+import hackathon.micromax.R;
+import hackathon.micromax.startingpoint.model.NavDrawerItem;
 
 /**
  * Created by apple on 30/06/15.

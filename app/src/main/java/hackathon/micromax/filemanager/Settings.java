@@ -16,7 +16,7 @@
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-package hackathon.test.filemanager;
+package hackathon.micromax.filemanager;
 
 import android.os.Bundle;
 import android.app.Activity;
@@ -30,7 +30,7 @@ import android.widget.CheckBox;
 import android.widget.ImageButton;
 import android.widget.CompoundButton;
 
-import hackathon.test.R;
+import hackathon.micromax.R;
 
 public class Settings extends Activity {
 	private boolean mHiddenChanged = false;

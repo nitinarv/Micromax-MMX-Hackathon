@@ -1,4 +1,4 @@
-package hackathon.test.uploadrest;
+package hackathon.micromax.uploadrest;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
@@ -8,7 +8,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
-import hackathon.test.R;
+import hackathon.micromax.R;
 
 public class UploadRestActivity extends ActionBarActivity implements View.OnClickListener{
 

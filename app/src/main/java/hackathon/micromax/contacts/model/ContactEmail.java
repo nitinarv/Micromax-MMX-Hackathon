@@ -1,4 +1,4 @@
-package hackathon.test.contacts.model;
+package hackathon.micromax.contacts.model;
 
 public class ContactEmail {
 	public String address;

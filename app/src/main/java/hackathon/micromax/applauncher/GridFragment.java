@@ -1,4 +1,4 @@
-package hackathon.test.applauncher;
+package hackathon.micromax.applauncher;
 
 /*
  * Created by Thomas Barrasso on 9/11/12.

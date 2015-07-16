@@ -1,4 +1,4 @@
-package hackathon.test.contacts.logic;
+package hackathon.micromax.contacts.logic;
 
 import java.util.ArrayList;
 
@@ -10,7 +10,7 @@ import android.provider.ContactsContract.CommonDataKinds.Phone;
 import android.provider.ContactsContract.RawContacts;
 import android.support.v4.content.CursorLoader;
 
-import hackathon.test.contacts.model.Contact;
+import hackathon.micromax.contacts.model.Contact;
 
 // new ContactFetcher(this).fetchAll();
 public class ContactFetcher {

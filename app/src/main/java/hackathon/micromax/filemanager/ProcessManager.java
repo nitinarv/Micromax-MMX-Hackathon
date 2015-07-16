@@ -16,7 +16,7 @@
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-package hackathon.test.filemanager;
+package hackathon.micromax.filemanager;
 
 import android.app.ListActivity;
 import android.app.AlertDialog;
@@ -41,7 +41,7 @@ import android.widget.Toast;
 import java.util.ArrayList;
 import java.util.List;
 
-import hackathon.test.R;
+import hackathon.micromax.R;
 
 /**
  * 
